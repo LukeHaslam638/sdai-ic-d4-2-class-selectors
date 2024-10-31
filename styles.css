@@ -3,3 +3,18 @@
     font-style: italic;
     text-align: center;
 }
+.info-box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid black;
+}
+.subheaders {
+    color: green;
+    font-size: 18px;
+    background-color: beige;
+}
+.about-us-text {
+    color: #4A90E2; /* Change to any color you like */
+    font-size: 1.2rem; /* Adjust to the desired size */
+}
